@@ -1,10 +1,4 @@
-﻿# The Official raywenderlich.com C# Style Guide
-
-This style guide is different from others you may find, because the focus is
-centered on readability for print and the web. We created this style guide to
-keep the code in our tutorials consistent.  
-
-Our overarching goals are **conciseness**, **readability** and **simplicity**. Also, this guide is written to keep **Unity** in mind. 
+﻿# The C# Style Guide
 
 ## Inspiration
 
